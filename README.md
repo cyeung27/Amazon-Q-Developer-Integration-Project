@@ -24,6 +24,7 @@ Validated the integration by generating a functional recursive algorithm and que
 <img width="781" height="925" alt="image" src="https://github.com/user-attachments/assets/c9fa0d56-9980-4848-95f5-367b22d4639e" />
 
 Key Learnings
+
 Context-Aware AI: Leveraged @Pin Context to supply project-specific files, improving AI output accuracy.
 
 Infrastructure Governance: Used Amazon Q as an architectural advisor to validate security configurations (e.g., S3 encryption, logging, and IAM policies).
