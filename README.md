@@ -25,6 +25,9 @@ Validated the integration by generating a functional recursive algorithm and que
 
 Key Learnings
 Context-Aware AI: Leveraged @Pin Context to supply project-specific files, improving AI output accuracy.
+
 Infrastructure Governance: Used Amazon Q as an architectural advisor to validate security configurations (e.g., S3 encryption, logging, and IAM policies).
+
 DevEx Automation: Practiced managing environment variables and PATH configuration to streamline tool integration.
+
 Built as part of a cloud engineering developer experience study.
