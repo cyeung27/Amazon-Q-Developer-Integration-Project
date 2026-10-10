@@ -2,6 +2,7 @@
 Setup and integration of Amazon Q Developer for AI-assisted coding, cloud architectural guidance, and secure development workflows.
 
 Amazon Q Developer Integration Project
+
 This project documents the setup and configuration of Amazon Q Developer in Visual Studio Code. This integration adds AI-powered pair programming and cloud architectural guidance to my local development workflow.
 
 Project Overview
